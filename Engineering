@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="us-ascii"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="description" content=""><meta name="author" content="TemplateMo">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
+	<title>Discover world class courses</title>
+	<link href="assets/images/ag.png" rel="icon" type="image/x-icon" /><!-- Bootstrap core CSS -->
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" /><!-- Additional CSS Files -->
+	<link href="assets/css/fontawesome.css" rel="stylesheet" />
+	<link href="assets/css/templatemo-edu-meeting.css" rel="stylesheet" />
+	<link href="assets/css/templatemo-edu-meeting.css" rel="stylesheet" />
+	<link href="assets/css/page.css" rel="stylesheet" />
+	<link href="assets/css/owl.css" rel="stylesheet" />
+	<link href="assets/css/lightbox.css" rel="stylesheet" />
+	<link href="assets/css/style.css" rel="stylesheet" />
+	<link href="css/ionicons.min.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+<header class="header-area header-sticky">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<nav class="main-nav"><!-- ***** Logo Start ***** --><a class="logo" href="index.html">University.Vidya </a> <!-- ***** Logo End ***** --> <!-- ***** Menu Start ***** -->
+<ul class="nav">
+	<li class="scroll-to-section"><a class="active" href="#top">Home</a></li>
+	<li><a href="meetings.html">Courses</a></li>
+	<li class="scroll-to-section"><a href="#apply">Colleges</a></li>
+	<li class="scroll-to-section"><a href="#courses">Universities</a></li>
+	<li class="has-sub"><a href="javascript:void(0)">Articles</a>
+	<ul class="sub-menu">
+		<li><a href="meetings.html">Latest News</a></li>
+		<li><a href="meeting-details.html">Exams</a></li>
+	</ul>
+	</li>
+	<li class="scroll-to-section"><a href="#contact">Free Counselling</a></li>
+</ul>
+<a class="menu-trigger"> <span>Menu</span> </a> <!-- ***** Menu End ***** --></nav>
+</div>
+</div>
+</div>
+</header>
+<!--image section-->
+
+<p><img alt="Image Description" src="assets/images/engineering.jpg" style="margin-top: 140px;height: 500px;margin-left: 0px;margin-right: 0px;" /></p>
+
+<div class="col-lg-3 col-md-12 col-sm-12 col-12 order-lg-2">
+<div class="about-one-thumbnail">
+<div class="pagesubmenu">
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-arts-social-studies" target="_self">School of Arts &amp; Social Studies</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-science" target="_self">School of Science</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-library-information-science" target="_self">School of Library &amp; Information Science</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-foreign-indian-languages" target="_self">School of Foreign &amp; Indian Languages</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-education-and-physical-education" target="_self">School of Education &amp; Physical Education</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-journalism-and-mass-communication" target="_self">School of Journalism &amp; Mass Communication</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-law" target="_self">School of Law</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-commerce-and-management-studies" target="_self">School of Commerce &amp; Management Studies</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-computer-science-and-it" target="_self">School of Computer Science &amp; IT</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-hotel-management" target="_self">School of Hotel Management</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-engineering-and-technology" target="_self">School of Engineering &amp; Technology</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-para-medical-science" target="_self">School of Para Medical Science</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-fire-and-safety" target="_self">School of Fire &amp; Safety</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-agriculture-and-veterinary-science" target="_self">School of Agriculture &amp; Veterinary Science</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-pharmacy" target="_self">School of Pharmacy</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-philosophy-and-research" target="_self">School of Philosophy &amp; Research</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-yoga-and-naturopathy" target="_self">School of Yoga and Naturopathy</a></div>
+
+<div class="subMenubg"><a class="submenu" href="https://sunriseuniversity.in/programmes/school-of-vocational-education" target="_self">School of Vocational Education</a></div>
+</div>
+</div>
+</div>
+<!-- main content for the page-->
+
+<div class="col-lg-3 col-md-12 col-sm-12 col-12 order-lg-2">
+<div class="white-background">
+<div class="card-body">
+<p class="h4 mb-0 text-center">Get more information about</p>
+
+<p class="h3 text-center">Explore Our Engineering Courses</p>
+
+<p class="fw-medium text-center">Fill in these details and Embark on a Pathway to Engineering Success</p>
+
+<div class="domain-transfer-wrap mt-4">
+<form action="">
+<div class="row g-2 justify-content-center">
+<div class="col-md-12 text-center mb-3"><span class="fw-medium me-3">I am a:</span> <input class="form-control" id="sources" name="sources" type="hidden" value="https://www.onlinevidyaa.com/courses/online-mba/marketing-management" />
+<div class="form-check form-check-inline"><input class="form-check-input" id="inlineRadio1" name="gender" type="radio" value="male" /> <label class="form-check-label Ov_stepCardText fw-medium" for="inlineRadio1">Male</label></div>
+
+<div class="form-check form-check-inline"><input class="form-check-input" id="inlineRadio2" name="gender" type="radio" value="female" /> <label class="form-check-label Ov_stepCardText fw-medium" for="inlineRadio2">Female</label></div>
+
+<div class="form-check form-check-inline"><input class="form-check-input" id="inlineRadio3" name="gender" type="radio" value="other" /> <label class="form-check-label Ov_stepCardText fw-medium" for="inlineRadio3">Other</label></div>
+</div>
+</div>
+
+<div class="row g-2 justify-content-center">
+<div class="col-md-6 mb-2"><input class="form-control" id="name" name="name" placeholder="Your Name" type="text" /></div>
+
+<div class="col-md-6 mb-2">
+<div class="input-group"><select class="form-select countrySelect" id="countrySelect" name="country_code"><option selected="selected" value="+91">+91 IN</option> </select><input aria-label="Phone" class="form-control" id="mobile_number" maxlength="10" minlength="10" name="mobile_number" placeholder="Your Phone Number" type="tel" /></div>
+</div>
+</div>
+
+<div class="row g-2 justify-content-center">
+<div class="col-md-6 mb-2"><input class="form-control" id="email" name="email" placeholder="Your Email Address" type="email" /></div>
+
+<div class="col-md-6 mb-2"><input autocomplete="off" class="form-control dob hasDatepicker" id="dob" name="dob" placeholder="Your Date Of Birth" type="text" /></div>
+</div>
+
+<div class="row g-2 justify-content-center">
+<div class="col-md-6 mb-2"><select class="form-select" id="state" name="state"><option disabled="disabled" selected="selected" value="">Select State</option><option value="Delhi">Delhi</option><option value="Uttar Pradesh">Uttar Pradesh</option><option value="Uttarakhand">Uttarakhand</option><option value="West Bengal">West Bengal</option><option value="Punjab">Punjab</option><option value="Rajasthan">Rajasthan</option><option value="Sikkim">Sikkim</option><option value="Tamil Nadu">Tamil Nadu</option><option value="Telangana">Telangana</option><option value="Tripura">Tripura</option><option value="Andhra Pradesh">Andhra Pradesh</option><option value="Arunachal Pradesh">Arunachal Pradesh</option><option value="Assam">Assam</option><option value="Bihar">Bihar</option><option value="Chandigarh">Chandigarh</option><option value="Chhattisgarh">Chhattisgarh</option><option value="Goa">Goa</option><option value="Gujarat">Gujarat</option><option value="Haryana">Haryana</option><option value="Himachal Pradesh">Himachal Pradesh</option><option value="Jammu &amp; Kashmir">Jammu &amp; Kashmir</option><option value="Jharkhand">Jharkhand</option><option value="Karnataka">Karnataka</option><option value="Kerala">Kerala</option><option value="Lakshadweep">Lakshadweep</option><option value="Madhya Pradesh">Madhya Pradesh</option><option value="Maharashtra">Maharashtra</option><option value="Manipur">Manipur</option><option value="Meghalaya">Meghalaya</option><option value="Mizoram">Mizoram</option><option value="Nagaland">Nagaland</option><option value="Orissa">Orissa</option><option value="Puducherry">Puducherry</option><option value="Andaman &amp; Nicobar Islands">Andaman &amp; Nicobar Islands</option><option value="Dadra &amp; Nagar Haveli">Dadra &amp; Nagar Haveli</option><option value="Daman &amp; Diu">Daman &amp; Diu</option> </select></div>
+
+<div class="col-md-6 mb-2"><select class="form-select" id="course" name="course" onchange="courseSucourseSb(this.value)"><option disabled="disabled" selected="selected" value="">Select Course</option><option value="4">Ph.D</option><option value="5">M.Com</option><option value="6">B.Tech</option><option value="7">MA</option><option value="8">MBA</option><option value="9">MCA</option><option value="10">MSc</option><option value="11">M.Tech for Working Professionals</option><option value="12">Executive MBA</option><option value="14">]M.Com</option><option value="15">MA</option><option value="16">MBA Dual Specialization</option><option value="17">M.Sc</option><option value="18">Online Part Time MCA</option><option value="20">Part-Time M.Tech</option><option value="21">Part-Time M.Sc</option><option value="22">Online Global MBA</option><option value="23">Online B.Sc</option><option value="24">B.Com Honours</option><option value="25">B.Tech for Working Professionals</option><option value="26">Distance B.Sc</option><option value="27">Distance BBA</option><option value="28">Distance BCA</option><option value="29">Online B.com</option><option value="30">Online B.Sc Honours</option><option value="33">Online B.A</option><option value="34">Online Bachelor of Library &amp; Information Science</option><option value="35">Online BBA</option><option value="36">Online B.Tech After Diploma</option><option value="37">Online BCA</option><option value="38">Online BA Honours</option><option value="39">Part Time MBA</option><option value="40">Paramedical and Health Services</option><option value="41">Computer Science &amp; ITES</option><option value="42">Tourism and Hospitality</option><option value="43">Machine learning &amp; Al</option><option value="44">Online MCA</option><option value="45">Online BBA dual specialization</option><option value="46">Distance B.Com</option><option value="47">Distance BA</option><option value="48">Management and Entrepreneurship</option><option value="49">Banking &amp; Financial Services</option> </select></div>
+
+<div class="col-md-6"><select class="form-select d-none" id="subcourse_dpnd4" name="sub-course"> </select></div>
+</div>
+
+<div class="text-center"><button class="btn btn-success mb-3 mt-2" id="student-lead-submit" type="button">Apply Now</button></div>
+</form>
+</div>
+
+<div class="text-center">
+<p class="badge fs-12 primary-bg">Your Personal Data is safe with us.</p>
+</div>
+</div>
+<!--Overview Start-->
+
+<div class="card-body">
+<h2 class="text-center h3">Engineering Pathways: Explore Your Future</h2>
+
+<p></p>
+
+<h2><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Introduction</strong></span></h2>
+
+<p style="text-align: justify;">Embarking on a journey in engineering opens doors to innovation, problem-solving, and shaping the future. Our engineering courses offer a dynamic blend of theory and hands-on practice, equipping students with the knowledge and skills needed to tackle real-world challenges. From civil and mechanical engineering to computer science and electrical engineering, our programs provide comprehensive training in diverse disciplines. Whether you&#39;re passionate about designing sustainable infrastructure, developing cutting-edge technology, or pioneering solutions to global issues, our engineering courses offer a pathway to success in a rapidly evolving world. Join us and become a driving force in the world of engineering innovation.</p>
+
+<h3 style="text-align: justify;"><span style="color:hsl(0,75%,46%);font-size:18px;"><strong>Course Details</strong></span></h3>
+
+<p style="text-align: justify;">Our engineering courses are designed to provide students with a comprehensive understanding of the principles, theories, and applications that underpin various engineering disciplines. Through a blend of rigorous coursework, hands-on laboratory experiences, and real-world projects, students are equipped with the knowledge and skills needed to excel in their chosen field. Our programs cover a wide range of specializations, including civil engineering, mechanical engineering, electrical engineering, computer science, and more. In addition to mastering core concepts, students have the opportunity to explore advanced topics, participate in cutting-edge research, and collaborate with industry partners on innovative projects. With access to state-of-the-art facilities and expert faculty guidance, students graduate ready to tackle complex engineering challenges and make meaningful contributions to society. Whether aspiring to build sustainable infrastructure, develop next-generation technologies, or push the boundaries of innovation, our engineering courses provide a solid foundation for success in the dynamic and ever-evolving field of engineering.</p>
+
+<h3><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Key Highlights</strong></span></h3>
+
+<p>Here are some key highlights of our Engineering Courses:</p>
+
+<ul>
+	<li style="text-align: justify;"><strong>Comprehensive Curriculum: </strong>Our engineering programs offer a comprehensive curriculum covering foundational principles, advanced concepts, and practical applications in diverse engineering disciplines.</li>
+	<li style="text-align: justify;"><strong>Hands-On Learning:</strong> Students engage in hands-on laboratory experiments, design projects, and industry internships to gain practical experience and apply theoretical knowledge in real-world settings.</li>
+	<li style="text-align: justify;"><strong>Cutting-Edge Facilities: </strong>Our state-of-the-art laboratories, research centers, and engineering facilities provide students with access to the latest technology and equipment, fostering innovation and creativity.</li>
+	<li style="text-align: justify;"><strong>Industry-Relevant Skills:</strong> With a focus on industry collaboration and experiential learning, our courses emphasize the development of skills and competencies sought after by employers in the engineering sector.</li>
+	<li style="text-align: justify;"><strong>Faculty Expertise:</strong> Our faculty members are leading experts in their respective fields, bringing a wealth of industry experience, research expertise, and academic knowledge to the classroom.</li>
+	<li style="text-align: justify;"><strong>Flexibility and Specializations:</strong> We offer a range of specialization options within our engineering programs, allowing students to tailor their education to their interests and career goals.</li>
+	<li style="text-align: justify;"><strong>Global Perspective:</strong> Our engineering courses incorporate global perspectives, preparing students to work in diverse multicultural environments and tackle complex global challenges.</li>
+	<li style="text-align: justify;"><strong>Career Support: </strong>We provide comprehensive career support services, including internship placements, job placement assistance, resume building workshops, and networking opportunities, to help students launch successful careers in engineering.</li>
+	<li style="text-align: justify;"><strong>Research Opportunities: </strong>Students have the opportunity to engage in cutting-edge research projects, collaborate with faculty members on research initiatives, and contribute to advancements in their chosen field of engineering.</li>
+	<li style="text-align: justify;"><strong>Alumni Success: </strong>Our engineering graduates have gone on to pursue successful careers in various industries, leading companies, and research institutions worldwide, showcasing the effectiveness of our programs in preparing students for professional success.</li>
+</ul>
+
+<h3 style="text-align: justify;"><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Eligibility Criteria</strong></span></h3>
+
+<ul>
+	<li>
+	<p style="text-align: justify;"><strong>Educational Qualifications: </strong>Candidates must have completed high school or its equivalent with a strong background in mathematics, physics, and chemistry.</p>
+	</li>
+	<li>
+	<p style="text-align: justify;"><strong>Entrance Exams:</strong>Many engineering programs require candidates to take entrance exams such as the Joint Entrance Examination (JEE) Main, JEE Advanced, or state-level engineering entrance exams. International students may need to provide scores from standardized tests such as the SAT or ACT.</p>
+	</li>
+	<li>
+	<p style="text-align: justify;"><strong>Minimum Grades: </strong>Candidates may need to meet minimum grade requirements in their high school or equivalent examinations to be eligible for admission to engineering programs.</p>
+	</li>
+</ul>
+
+<h3><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Specializations in Educator Courses</strong></span></h3>
+
+<figure class="table" style="width:100%;">&nbsp;
+<table class="ck-table-resized table table-striped">
+	<colgroup>
+		<col style="width:45.46%;" />
+		<col style="width:54.54%;" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>B.Tech in Civil Engineering</td>
+			<td>B.Tech in Software Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Mechanical Engineering</td>
+			<td>M.Tech in Structural Engineering</td>
+		</tr>
+		<tr>
+			<td><a> </a>B.Tech in Electrical Engineering</td>
+			<td><a> </a>M.Tech in Thermal Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Computer Engineering</td>
+			<td>M.Tech in Power Systems Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Aerospace Engineering</td>
+			<td>M.Tech in Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Biomedical Engineering</td>
+			<td>M.Tech in Software Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Environmental Engineering</td>
+			<td>M.Tech in Environmental Engineering</td>
+		</tr>
+		<tr>
+			<td>B.Tech in Industrial Engineering<br />
+			<a> </a></td>
+		</tr>
+		<tr>
+		</tr>
+	</tbody>
+</table>
+</figure>
+
+<h3><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Job Opportunities</strong></span></h3>
+
+<h5>Job opportunities for graduates of educator courses</h5>
+
+<ul>
+	<li><strong>Mechanical Engineer: </strong>Designing, developing, and testing mechanical devices, equipment, and systems.</li>
+	<li><strong>Software Engineer:</strong> Developing, testing, and maintaining software applications and systems.</li>
+	<li><strong>Civil Engineer: </strong>Planning, designing, and overseeing construction projects such as buildings, bridges, and roads.</li>
+	<li><strong>Electrical Engineer:</strong> Designing, testing, and maintaining electrical systems, equipment, and components.</li>
+	<li><strong>Aerospace Engineer: </strong>Designing and testing aircraft, spacecraft, and related systems.</li>
+	<li><strong>Chemical Engineer: </strong>Developing processes and materials for the production of chemicals, pharmaceuticals, and fuels.</li>
+	<li><strong>Environmental Engineer:</strong> Addressing environmental challenges such as pollution control, waste management, and sustainability.</li>
+	<li><strong>Biomedical Engineer: </strong>Designing and developing medical devices, equipment, and systems for healthcare applications.</li>
+	<li><strong>Computer Hardware Engineer:</strong> Designing, testing, and developing computer hardware components and systems.</li>
+	<li><strong>Industrial Engineer: </strong>Optimizing production processes, systems, and workflows to improve efficiency and productivity in industries such as manufacturing and logistics.</li>
+</ul>
+
+<h3><span style="color:hsl(0,75%,60%);font-size:18px;"><strong>Why Choose Educator Courses</strong></span></h3>
+
+<p style="text-align: justify;"></p>
+
+<p style="text-align: justify;"></p>
+
+<ul>
+	<li style="text-align: justify;"><strong>Impactful Career Opportunities:</strong> Engineering offers diverse career paths with opportunities to make meaningful contributions to society through innovation, problem-solving, and technological advancements.</li>
+	<li style="text-align: justify;"><strong>Problem-Solving Skills:</strong> Engineering education emphasizes critical thinking, analytical reasoning, and problem-solving skills, which are valuable not only in engineering but also in various other fields and industries.</li>
+	<li style="text-align: justify;"><strong>Creativity and Innovation: </strong>Engineering fosters creativity and innovation by encouraging students to design, develop, and implement solutions to real-world challenges, pushing the boundaries of what is possible.</li>
+	<li style="text-align: justify;"><strong>Global Demand:</strong> With rapid technological advancements and infrastructure development worldwide, there is a growing demand for skilled engineers across various industries, making engineering a globally relevant and in-demand profession.</li>
+	<li style="text-align: justify;"><strong>Financial Stability: </strong>Engineering careers often offer competitive salaries and opportunities for advancement, providing financial stability and long-term growth potential for professionals in the field.</li>
+	<li style="text-align: justify;"><strong>Interdisciplinary Opportunities: </strong>Engineering intersects with various disciplines such as medicine, business, and environmental science, offering opportunities for interdisciplinary collaboration and specialization.</li>
+	<li style="text-align: justify;"><strong>Lifelong Learning: </strong>Engineering is a dynamic and evolving field, requiring continuous learning and adaptation to new technologies and methodologies, providing opportunities for lifelong learning and professional growth.</li>
+	<li style="text-align: justify;"><strong>Making a Difference:</strong> Engineers play a crucial role in addressing global challenges such as climate change, renewable energy, healthcare, and infrastructure development, making a positive impact on society and the environment.</li>
+</ul>
+
+<p style="text-align: justify;">Engineering courses provide a solid foundation for a rewarding and fulfilling career, offering opportunities to tackle complex problems, drive innovation, and contribute to the advancement of society.</p>
+
+<p style="text-align: justify;"></p>
+</div>
+
+<footer class="footer-08">
+<div class="container-fluid px-lg-5">
+<div class="row">
+<div class="col-md-9 py-5">
+<div class="row">
+<div class="col-md-4 mb-md-0 mb-4">
+<h2 class="footer-heading">About us</h2>
+
+<p>Empowering learners with personalized guidance to navigate the vast landscape of educational opportunities, both online and offline, through UniversityVidya</p>
+
+<p class="ftco-animate"></p>
+</div>
+
+<div class="col-md-8">
+<div class="row justify-content-center">
+<div class="col-md-12 col-lg-9">
+<div class="row">
+<div class="col-md-4 mb-md-0 mb-4">
+<h2 class="footer-heading">Discover</h2>
+
+<ul class="list-unstyled">
+	<li><a class="py-1 d-block" href="#">Courses</a></li>
+	<li><a class="py-1 d-block" href="#">Universities</a></li>
+	<li><a class="py-1 d-block" href="#">Colleges</a></li>
+	<li><a class="py-1 d-block" href="#">Help &amp; Support</a></li>
+</ul>
+</div>
+
+<div class="col-md-4 mb-md-0 mb-4">
+<h2 class="footer-heading">About</h2>
+
+<ul class="list-unstyled">
+	<li><a class="py-1 d-block" href="#">Staff</a></li>
+	<li><a class="py-1 d-block" href="#">Team</a></li>
+	<li><a class="py-1 d-block" href="#">Careers</a></li>
+	<li><a class="py-1 d-block" href="#">Blog</a></li>
+</ul>
+</div>
+
+<div class="col-md-4 mb-md-0 mb-4">
+<h2 class="footer-heading">Resources</h2>
+
+<ul class="list-unstyled">
+	<li><a class="py-1 d-block" href="#">Security</a></li>
+	<li><a class="py-1 d-block" href="#">Global</a></li>
+	<li><a class="py-1 d-block" href="#">Charts</a></li>
+	<li><a class="py-1 d-block" href="#">Privacy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row mt-md-5">
+<div class="col-md-12">
+<p class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->Copyright &copy;<script>document.write(new Date().getFullYear());</script> All Rights Reserved. by <a href="https://universityvidya.in" target="_blank">Universityvidya.in</a> <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 py-md-5 py-4 aside-stretch-right pl-lg-5">
+<h2 class="footer-heading footer-heading-white">Contact us</h2>
+
+<form action="#" class="contact-form">
+<div class="form-group"><input class="form-control" placeholder="Your Name" type="text" /></div>
+
+<div class="form-group"><input class="form-control" placeholder="Your Email" type="text" /></div>
+
+<div class="form-group"><input class="form-control" placeholder="Subject" type="text" /></div>
+
+<div class="form-group"><textarea class="form-control" cols="30" id="" name="" placeholder="Message" rows="3"></textarea></div>
+
+<div class="form-group"><button class="form-control submit px-3" type="submit">Send</button></div>
+</form>
+</div>
+</div>
+</div>
+</footer>
+<script src="assets/js/jquery.min.js"></script><script src="assets/js/popper.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/main.js"></script><!-- Footer End--></div>
+</div>
+</body>
+</html>
